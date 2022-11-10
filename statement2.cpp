@@ -1,3 +1,5 @@
+// Throw an exception, catch and handle the outcomes
+
 #include <iostream>
 using namespace std;
 

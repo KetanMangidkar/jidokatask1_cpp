@@ -1,3 +1,5 @@
+// Show implementation of a class and example of inheritance
+
 #include <iostream>
 using namespace std;
 class Account{
